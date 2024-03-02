@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ufik0203/JS-Database-Connection.git"
+    "url": "https://github.com/Ufik0203/JS-Database-Connection.git"
   },
   "keywords": [
     "js-db-connect"
